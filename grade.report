@@ -1,0 +1,56 @@
+# Grading Report
+# Github Account: paramdesai321
+# Assignment:    "05-dec2bin.java"
+# --- Due Date:        "Mar 29 16:05:33"
+# --- Version Graded:  "graded_version (7352ed2)"
+# --- Version Date:    "Mar 29 15:13:29"
+# --- Status:          "Submission On Time
+
+  25 Points:  Playing along in class: (30 points): did not complete push/pop
+  10 Points:  Code inspection (20 points): uniform indentation
+  15 Points:  Compiles: (20 points): did not declare r
+   0 Points:  Executes correctly (10 points): 
+  20 Points:  Post class activity: (20 points): 
+----
+  70 Points:  Total
+
+ASSIGNMENT_05_total="70"        # paramdesai321
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Mar 29 16:05:33  -----------------
+*  7352ed2  Mar 29 15:13 -0700  (HEAD -> main, tag: graded_version, origin/main, origin/HEAD, grading_information)
+*  660a1c2  Mar 29 15:02 -0700 
+*  55345f0  Mar 29 14:32 -0700 
+*  7d11ead  Mar 29 14:29 -0700 
+*  77aff68  Mar 29 14:27 -0700 
+*  f96aa07  Mar 29 14:25 -0700 
+*  d2321d7  Mar 29 21:10 +0000 
+
+
+
+Note this grade.report is for your participation in class only.
+As such, this grade is associated with the Participation Section of your final score.
+
+Grading breakdown:
+
+  Playing along in class:
+    -- did you follow the directions in class
+    -- did you follow the software development process of incremental work
+    -- did you complete the final version
+    -- this was the only one criteria graded base upon the due date
+  
+  Code inspection (20 points): 
+    -- did you make sure you put time and effort into formating your solution
+    -- just like the Professor did and just like he reminded you to do so
+
+  Compiles: (20 points): 
+    --  the final code you provided compile
+  
+  Executes correctly (10 points): 
+    -- did the final code you provided yield the correct results
+  
+  Post class activity: (20 points): 
+    -- if you played along in class -- than you got credit for this
+    -- if you were not in class -- but you took steps to do this assignment, you got credit here.
+
