@@ -1,3 +1,4 @@
+import MIPS_OS_Interface;
 class whole2bin{
    static MIPS_OS_Interface mips = new MIPS_OS_Interface();
 
