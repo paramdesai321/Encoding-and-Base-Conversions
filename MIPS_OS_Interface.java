@@ -1,5 +1,5 @@
 
-class MIPS_OS_Interface {
+public class MIPS_OS_Interface {
 
   static int $sp = -1;
   static int[] stack= new int[256];
